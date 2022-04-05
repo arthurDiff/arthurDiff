@@ -3,6 +3,191 @@
   {
     "id":"dagger",
     "name":"Dagger",
-    "url":"../"
+    "url":"../assets/models/dagger"
+  },
+  {
+    "id":"parryingdagger",
+    "name":"Parrying Dagger",
+    "url":"../assets/models/parryingdagger"
+  },
+  {
+    "id":"misericorde",
+    "name":"Misericorde",
+    "url":"../assets/models/misericorde"
+  },
+  {
+    "id":"greatknife",
+    "name":"Great Knife",
+    "url":"../assets/models/greatknife"
+  },
+  {
+    "id":"bloodstaineddagger",
+    "name":"Bloodstained Dagger",
+    "url":"../assets/models/bloodstaineddagger"
+  },
+  {
+    "id":"erdsteeldagger",
+    "name":"Erdsteel Dagger",
+    "url":"../assets/models/erdsteeldagger"
+  },
+  {
+    "id":"wakizashi",
+    "name":"Wakizashi",
+    "url":"../assets/models/wakizashi"
+  },
+  {
+    "id":"celebrantssickle",
+    "name":"Celebrant's Sickle",
+    "url":"../assets/models/celebrantssickle"
+  },
+  {
+    "id":"crystalknife",
+    "name":"Crystal Knife",
+    "url":"../assets/models/crystalknife"
+  },
+  {
+    "id":"scorpionsstinger",
+    "name":"Scorpion's Stinger",
+    "url":"../assets/models/scorpionsstinger"
+  },
+  {
+    "id":"cinquedea",
+    "name":"Cinquedea",
+    "url":"../assets/models/cinquedea"
+  },
+  {
+    "id":"glintstonekris",
+    "name":"Glintstone Kris",
+    "url":"../assets/models/glintstonekris"
+  },
+  {
+    "id":"reduvia",
+    "name":"Reduvia",
+    "url":"../assets/models/reduvia"
+  },
+  {
+    "id":"bladeofcalling",
+    "name":"Blade of Calling",
+    "url":"../assets/models/bladeofcalling"
+  },
+  {
+    "id":"blackknife",
+    "name":"Black Knife",
+    "url":"../assets/models/blackknife"
+  },
+  {
+    "id":"shortsword",
+    "name":"Short Sword",
+    "url":"../assets/models/shortsword"
+  },
+  {
+    "id":"longsword",
+    "name":"Longsword",
+    "url":"../assets/models/longsword"
+  },
+  {
+    "id":"broadsword",
+    "name":"Broadsword",
+    "url":"../assets/models/broadsword"
+  },
+  {
+    "id":"weatheredstraightsword",
+    "name":"Weathered Straight Sword",
+    "url":"../assets/models/weatheredstraightsword"
+  },
+  {
+    "id":"lordswornsstraightsword",
+    "name":"Lordsworn's Straight Sword",
+    "url":"../assets/models/lordswornsstraightsword"
+  },
+  {
+    "id":"noblesslendersword",
+    "name":"Noble's Slender Sword",
+    "url":"../assets/models/noblesslendersword"
+  },
+  {
+    "id":"canesword",
+    "name":"Cane Sword",
+    "url":"../assets/models/canesword"
+  },
+  {
+    "id":"warhawkstalon",
+    "name":"Warhawk's talon",
+    "url":"../assets/models/warhawkstalon"
+  },
+  {
+    "id":"parryingdagger",
+    "name":"Parrying Dagger",
+    "url":"../assets/models/parryingdagger"
+  },
+  {
+    "id":"parryingdagger",
+    "name":"Parrying Dagger",
+    "url":"../assets/models/parryingdagger"
+  },
+  {
+    "id":"parryingdagger",
+    "name":"Parrying Dagger",
+    "url":"../assets/models/parryingdagger"
+  },
+  {
+    "id":"parryingdagger",
+    "name":"Parrying Dagger",
+    "url":"../assets/models/parryingdagger"
+  },
+  {
+    "id":"parryingdagger",
+    "name":"Parrying Dagger",
+    "url":"../assets/models/parryingdagger"
+  },
+  {
+    "id":"parryingdagger",
+    "name":"Parrying Dagger",
+    "url":"../assets/models/parryingdagger"
+  },
+  {
+    "id":"parryingdagger",
+    "name":"Parrying Dagger",
+    "url":"../assets/models/parryingdagger"
+  },
+  {
+    "id":"parryingdagger",
+    "name":"Parrying Dagger",
+    "url":"../assets/models/parryingdagger"
+  },
+  {
+    "id":"parryingdagger",
+    "name":"Parrying Dagger",
+    "url":"../assets/models/parryingdagger"
+  },
+  {
+    "id":"parryingdagger",
+    "name":"Parrying Dagger",
+    "url":"../assets/models/parryingdagger"
+  },
+  {
+    "id":"parryingdagger",
+    "name":"Parrying Dagger",
+    "url":"../assets/models/parryingdagger"
+  },
+  {
+    "id":"parryingdagger",
+    "name":"Parrying Dagger",
+    "url":"../assets/models/parryingdagger"
+  },
+  {
+    "id":"parryingdagger",
+    "name":"Parrying Dagger",
+    "url":"../assets/models/parryingdagger"
+  },
+  {
+    "id":"parryingdagger",
+    "name":"Parrying Dagger",
+    "url":"../assets/models/parryingdagger"
+  },
+  {
+    "id":"parryingdagger",
+    "name":"Parrying Dagger",
+    "url":"../assets/models/parryingdagger"
   }]
 }
