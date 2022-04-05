@@ -566,7 +566,7 @@
     "url":"../assets/models/gargoylestwinblade"
   },
   {
-    "id":"gargoylestwinbladev2",
+    "id":"gargoylesblackblade",
     "name":"Gargoyle's Blackblade",
     "url":"../assets/models/gargoylestwinbladev2"
   },
@@ -796,44 +796,44 @@
     "url":"../assets/models/bastardsstars"
   },
   {
-    "id":"twinblade",
-    "name":"Twinblade",
-    "url":"../assets/models/twinblade"
+    "id":"largeclub",
+    "name":"Large Club",
+    "url":"../assets/models/largeclub"
   },
   {
-    "id":"twinblade",
-    "name":"Twinblade",
-    "url":"../assets/models/twinblade"
+    "id":"curvedgreatclub",
+    "name":"Curved Great Club",
+    "url":"../assets/models/curvedgreatclub"
   },
   {
-    "id":"twinblade",
-    "name":"Twinblade",
-    "url":"../assets/models/twinblade"
+    "id":"greatmace",
+    "name":"Great Mace",
+    "url":"../assets/models/greatmace"
   },
   {
-    "id":"twinblade",
-    "name":"Twinblade",
-    "url":"../assets/models/twinblade"
+    "id":"pickaxe",
+    "name":"Pickaxe",
+    "url":"../assets/models/pickaxe"
   },
   {
-    "id":"twinblade",
-    "name":"Twinblade",
-    "url":"../assets/models/twinblade"
+    "id":"brickhammer",
+    "name":"Brick Hammer",
+    "url":"../assets/models/brickhammer"
   },
   {
-    "id":"twinblade",
-    "name":"Twinblade",
-    "url":"../assets/models/twinblade"
+    "id":"battlehammer",
+    "name":"Battle Hammer",
+    "url":"../assets/models/battlehammer"
   },
   {
-    "id":"twinblade",
-    "name":"Twinblade",
-    "url":"../assets/models/twinblade"
+    "id":"rottenbattlehammer",
+    "name":"Rotten Battle Hammer",
+    "url":"../assets/models/battlehammerv2"
   },
   {
-    "id":"twinblade",
-    "name":"Twinblade",
-    "url":"../assets/models/twinblade"
+    "id":"celebrantsskull",
+    "name":"Celebrant's Skull",
+    "url":"../assets/models/celebrantsskull"
   },
   {
     "id":"twinblade",
