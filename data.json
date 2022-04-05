@@ -301,304 +301,304 @@
     "url":"../assets/models/trollknightssword"
   },
   {
-    "id":"greatsword",
-    "name":"Greatsword",
-    "url":"../assets/models/greatsword"
+    "id":"royalgreatsword",
+    "name":"Royal Greatsword",
+    "url":"../assets/models/royalgreatsword"
   },
   {
-    "id":"greatsword",
-    "name":"Greatsword",
-    "url":"../assets/models/greatsword"
+    "id":"graftedbladegreatsword",
+    "name":"Grafted Blade Greatsword",
+    "url":"../assets/models/graftedbladegreatsword"
   },
   {
-    "id":"greatsword",
-    "name":"Greatsword",
-    "url":"../assets/models/greatsword"
+    "id":"ruinsgreatsword",
+    "name":"Ruins Greatsword",
+    "url":"../assets/models/ruinsgreatsword"
   },
   {
-    "id":"greatsword",
-    "name":"Greatsword",
-    "url":"../assets/models/greatsword"
+    "id":"starscourgegreatsword",
+    "name":"Starscourge Greatsword",
+    "url":"../assets/models/starscourgegreatsword"
   },
   {
-    "id":"greatsword",
-    "name":"Greatsword",
-    "url":"../assets/models/greatsword"
+    "id":"godslayersgreatsword",
+    "name":"Godslayer's Greatsword",
+    "url":"../assets/models/godslayersgreatsword"
   },
   {
-    "id":"greatsword",
-    "name":"Greatsword",
-    "url":"../assets/models/greatsword"
+    "id":"malikethsblackblade",
+    "name":"Maliketh's Blackblade",
+    "url":"../assets/models/malikethsblackblade"
   },
   {
-    "id":"greatsword",
-    "name":"Greatsword",
-    "url":"../assets/models/greatsword"
+    "id":"rapier",
+    "name":"Rapier",
+    "url":"../assets/models/rapier"
   },
   {
-    "id":"greatsword",
-    "name":"Greatsword",
-    "url":"../assets/models/greatsword"
+    "id":"estoc",
+    "name":"Estoc",
+    "url":"../assets/models/estoc"
   },
   {
-    "id":"greatsword",
-    "name":"Greatsword",
-    "url":"../assets/models/greatsword"
+    "id":"noblesestoc",
+    "name":"Noble's Estoc",
+    "url":"../assets/models/noblesestoc"
   },
   {
-    "id":"greatsword",
-    "name":"Greatsword",
-    "url":"../assets/models/greatsword"
+    "id":"cleanrotknightssword",
+    "name":"Cleanrot Knight's Sword",
+    "url":"../assets/models/cleanrotknightssword"
   },
   {
-    "id":"greatsword",
-    "name":"Greatsword",
-    "url":"../assets/models/greatsword"
+    "id":"rogiersrapier",
+    "name":"Rogier's Rapier",
+    "url":"../assets/models/rogiersrapier"
   },
   {
-    "id":"greatsword",
-    "name":"Greatsword",
-    "url":"../assets/models/greatsword"
+    "id":"antspurrapier",
+    "name":"Antspur Rapier",
+    "url":"../assets/models/antspurrapier"
   },
   {
-    "id":"greatsword",
-    "name":"Greatsword",
-    "url":"../assets/models/greatsword"
+    "id":"frozenneedle",
+    "name":"Frozen Needle",
+    "url":"../assets/models/frozenneedle"
   },
   {
-    "id":"greatsword",
-    "name":"Greatsword",
-    "url":"../assets/models/greatsword"
+    "id":"greatepee",
+    "name":"Great Epee",
+    "url":"../assets/models/greatepee"
   },
   {
-    "id":"greatsword",
-    "name":"Greatsword",
-    "url":"../assets/models/greatsword"
+    "id":"godskinstitcher",
+    "name":"Godskin Stitcher",
+    "url":"../assets/models/godskinstitcher"
   },
   {
-    "id":"greatsword",
-    "name":"Greatsword",
-    "url":"../assets/models/greatsword"
+    "id":"bloodyhelice",
+    "name":"Bloody Helice",
+    "url":"../assets/models/bloodyhelice"
   },
   {
-    "id":"greatsword",
-    "name":"Greatsword",
-    "url":"../assets/models/greatsword"
+    "id":"dragonkingscragblade",
+    "name":"Dragonking's Cragblade",
+    "url":"../assets/models/dragonkingscragblade"
   },
   {
-    "id":"greatsword",
-    "name":"Greatsword",
-    "url":"../assets/models/greatsword"
+    "id":"scimitar",
+    "name":"Scimitar",
+    "url":"../assets/models/scimitar"
   },
   {
-    "id":"greatsword",
-    "name":"Greatsword",
-    "url":"../assets/models/greatsword"
+    "id":"falchion",
+    "name":"Falchion",
+    "url":"../assets/models/falchion"
   },
   {
-    "id":"greatsword",
-    "name":"Greatsword",
-    "url":"../assets/models/greatsword"
+    "id":"shamshir",
+    "name":"Shamshir",
+    "url":"../assets/models/shamshir"
   },
   {
-    "id":"greatsword",
-    "name":"Greatsword",
-    "url":"../assets/models/greatsword"
+    "id":"grossmesser",
+    "name":"Grossmesser",
+    "url":"../assets/models/grossmesser"
   },
   {
-    "id":"greatsword",
-    "name":"Greatsword",
-    "url":"../assets/models/greatsword"
+    "id":"banditscurvedsword",
+    "name":"Bandit's Curved Sword",
+    "url":"../assets/models/banditscurvedsword"
   },
   {
-    "id":"greatsword",
-    "name":"Greatsword",
-    "url":"../assets/models/greatsword"
+    "id":"shotel",
+    "name":"Shotel",
+    "url":"../assets/models/shotel"
   },
   {
-    "id":"greatsword",
-    "name":"Greatsword",
-    "url":"../assets/models/greatsword"
+    "id":"scavengerscurvedsword",
+    "name":"Scavenger's Curved Sword",
+    "url":"../assets/models/scavengerscurvedsword"
   },
   {
-    "id":"greatsword",
-    "name":"Greatsword",
-    "url":"../assets/models/greatsword"
+    "id":"mantisblade",
+    "name":"Mantis Blade",
+    "url":"../assets/models/mantisblade"
   },
   {
-    "id":"greatsword",
-    "name":"Greatsword",
-    "url":"../assets/models/greatsword"
+    "id":"beastmanscurvedsword",
+    "name":"Beastman's Curved Sword",
+    "url":"../assets/models/beastmanscurvedsword"
   },
   {
-    "id":"greatsword",
-    "name":"Greatsword",
-    "url":"../assets/models/greatsword"
+    "id":"flowingcurvedsword",
+    "name":"Flowing Curved Sword",
+    "url":"../assets/models/flowingcurvedsword"
   },
   {
-    "id":"greatsword",
-    "name":"Greatsword",
-    "url":"../assets/models/greatsword"
+    "id":"serpentgodscurvedsword",
+    "name":"Serpent-God's Curved Sword",
+    "url":"../assets/models/serpentgodscurvedsword"
   },
   {
-    "id":"greatsword",
-    "name":"Greatsword",
-    "url":"../assets/models/greatsword"
+    "id":"magmablade",
+    "name":"Magma Blade",
+    "url":"../assets/models/magmablade"
   },
   {
-    "id":"greatsword",
-    "name":"Greatsword",
-    "url":"../assets/models/greatsword"
+    "id":"noxflowingsword",
+    "name":"Nox Flowing Sword",
+    "url":"../assets/models/noxflowingsword"
   },
   {
-    "id":"greatsword",
-    "name":"Greatsword",
-    "url":"../assets/models/greatsword"
+    "id":"wingofastel",
+    "name":"Wing of Astel",
+    "url":"../assets/models/wingofastel"
   },
   {
-    "id":"greatsword",
-    "name":"Greatsword",
-    "url":"../assets/models/greatsword"
+    "id":"eclipseshotel",
+    "name":"Eclipse Shotel",
+    "url":"../assets/models/eclipseshotel"
   },
   {
-    "id":"greatsword",
-    "name":"Greatsword",
-    "url":"../assets/models/greatsword"
+    "id":"dismounter",
+    "name":"Dismounter",
+    "url":"../assets/models/dismounter"
   },
   {
-    "id":"greatsword",
-    "name":"Greatsword",
-    "url":"../assets/models/greatsword"
+    "id":"omencleaver",
+    "name":"Omen Cleaver",
+    "url":"../assets/models/omencleaver"
   },
   {
-    "id":"greatsword",
-    "name":"Greatsword",
-    "url":"../assets/models/greatsword"
+    "id":"monksflameblade",
+    "name":"Monk's Flameblade",
+    "url":"../assets/models/monksflameblade"
   },
   {
-    "id":"greatsword",
-    "name":"Greatsword",
-    "url":"../assets/models/greatsword"
+    "id":"beastmanscleaver",
+    "name":"Beastman's Cleaver",
+    "url":"../assets/models/beastmanscleaver"
   },
   {
-    "id":"greatsword",
-    "name":"Greatsword",
-    "url":"../assets/models/greatsword"
+    "id":"bloodhoundsfang",
+    "name":"Bloodhound's Fang",
+    "url":"../assets/models/bloodhoundsfang"
   },
   {
-    "id":"greatsword",
-    "name":"Greatsword",
-    "url":"../assets/models/greatsword"
+    "id":"onyxlordsgreatsword",
+    "name":"Onyx Lord's Greatsword",
+    "url":"../assets/models/onyxlordsgreatsword"
   },
   {
-    "id":"greatsword",
-    "name":"Greatsword",
-    "url":"../assets/models/greatsword"
+    "id":"zamorcurvedsword",
+    "name":"Zamor Curved Sword",
+    "url":"../assets/models/zamorcurvedsword"
   },
   {
-    "id":"greatsword",
-    "name":"Greatsword",
-    "url":"../assets/models/greatsword"
+    "id":"magmawyrmsscalesword",
+    "name":"Magma Wyrm's Scalesword",
+    "url":"../assets/models/magmawyrmsscalesword"
   },
   {
-    "id":"greatsword",
-    "name":"Greatsword",
-    "url":"../assets/models/greatsword"
+    "id":"morgottscursedsword",
+    "name":"Morgott's Cursed Sword",
+    "url":"../assets/models/morgottscursedsword"
   },
   {
-    "id":"greatsword",
-    "name":"Greatsword",
-    "url":"../assets/models/greatsword"
+    "id":"uchigatana",
+    "name":"Uchigatana",
+    "url":"../assets/models/uchigatana"
   },
   {
-    "id":"greatsword",
-    "name":"Greatsword",
-    "url":"../assets/models/greatsword"
+    "id":"nagakiba",
+    "name":"Nagakiba",
+    "url":"../assets/models/nagakiba"
   },
   {
-    "id":"greatsword",
-    "name":"Greatsword",
-    "url":"../assets/models/greatsword"
+    "id":"serpentboneblade",
+    "name":"Serpentbone Blade",
+    "url":"../assets/models/serpentboneblade"
   },
   {
-    "id":"greatsword",
-    "name":"Greatsword",
-    "url":"../assets/models/greatsword"
+    "id":"meteoricoreblade",
+    "name":"Meteoric Ore Blade",
+    "url":"../assets/models/meteoricoreblade"
   },
   {
-    "id":"greatsword",
-    "name":"Greatsword",
-    "url":"../assets/models/greatsword"
+    "id":"moonveil",
+    "name":"Moonveil",
+    "url":"../assets/models/moonveil"
   },
   {
-    "id":"greatsword",
-    "name":"Greatsword",
-    "url":"../assets/models/greatsword"
+    "id":"riversofblood",
+    "name":"Rivers of Blood",
+    "url":"../assets/models/riversofblood"
   },
   {
-    "id":"greatsword",
-    "name":"Greatsword",
-    "url":"../assets/models/greatsword"
+    "id":"dragonscaleblade",
+    "name":"Dragon Scale Blade",
+    "url":"../assets/models/dragonscaleblade"
   },
   {
-    "id":"greatsword",
-    "name":"Greatsword",
-    "url":"../assets/models/greatsword"
+    "id":"handofmalenia",
+    "name":"Hand of Malenia",
+    "url":"../assets/models/handofmalenia"
   },
   {
-    "id":"greatsword",
-    "name":"Greatsword",
-    "url":"../assets/models/greatsword"
+    "id":"twinblade",
+    "name":"Twinblade",
+    "url":"../assets/models/twinblade"
   },
   {
-    "id":"greatsword",
-    "name":"Greatsword",
-    "url":"../assets/models/greatsword"
+    "id":"twinnedknightswords",
+    "name":"Twinned Knight Swords",
+    "url":"../assets/models/twinnedknightswords"
   },
   {
-    "id":"greatsword",
-    "name":"Greatsword",
-    "url":"../assets/models/greatsword"
+    "id":"godskinpeeler",
+    "name":"Godskin Peeler",
+    "url":"../assets/models/godskinpeeler"
   },
   {
-    "id":"greatsword",
-    "name":"Greatsword",
-    "url":"../assets/models/greatsword"
+    "id":"gargoylestwinblade",
+    "name":"Gargoyle's Twinblade",
+    "url":"../assets/models/gargoylestwinblade"
   },
   {
-    "id":"greatsword",
-    "name":"Greatsword",
-    "url":"../assets/models/greatsword"
+    "id":"gargoylestwinbladev2",
+    "name":"Gargoyle's Blackblade",
+    "url":"../assets/models/gargoylestwinbladev2"
   },
   {
-    "id":"greatsword",
-    "name":"Greatsword",
-    "url":"../assets/models/greatsword"
+    "id":"eleonoraspoleblade",
+    "name":"Eleonora's Poleblade",
+    "url":"../assets/models/eleonoraspoleblade"
   },
   {
-    "id":"greatsword",
-    "name":"Greatsword",
-    "url":"../assets/models/greatsword"
+    "id":"handaxe",
+    "name":"Hand Axe",
+    "url":"../assets/models/handaxe"
   },
   {
-    "id":"greatsword",
-    "name":"Greatsword",
-    "url":"../assets/models/greatsword"
+    "id":"forkedhatchet",
+    "name":"Forked Hatchet",
+    "url":"../assets/models/forkedhatchet"
   },
   {
-    "id":"greatsword",
-    "name":"Greatsword",
-    "url":"../assets/models/greatsword"
+    "id":"battleaxe",
+    "name":"Battle Axe",
+    "url":"../assets/models/battleaxe"
   },
   {
-    "id":"greatsword",
-    "name":"Greatsword",
-    "url":"../assets/models/greatsword"
+    "id":"warpedaxe",
+    "name":"Warped Axe",
+    "url":"../assets/models/warpedaxe"
   },
   {
-    "id":"greatsword",
-    "name":"Greatsword",
-    "url":"../assets/models/greatsword"
+    "id":"jawboneaxe",
+    "name":"Jawbone Axe",
+    "url":"../assets/models/jawboneaxe"
   },
   {
     "id":"greatsword",
