@@ -1681,158 +1681,203 @@
     "url":"../assets/models/brassshield.fbx"
   },
   {
-    "id":"Great Turtle Shell",
-    "name":"greatturtleshell",
+    "id":"greatturtleshell",
+    "name":"Great Turtle Shell",
     "url":"../assets/models/greatturtleshell.fbx"
   },
   {
-    "id":"misericorde",
-    "name":"Misericorde",
-    "url":"../assets/models/misericorde.fbx"
+    "id":"beastmansjarshield",
+    "name":"Beastman's Jar Shield",
+    "url":"../assets/models/beastmansjarshield.fbx"
   },
   {
-    "id":"misericorde",
-    "name":"Misericorde",
-    "url":"../assets/models/misericorde.fbx"
+    "id":"carianknightsshield",
+    "name":"Carian Knight's Shield",
+    "url":"../assets/models/carianknightsshield.fbx"
   },
   {
-    "id":"misericorde",
-    "name":"Misericorde",
-    "url":"../assets/models/misericorde.fbx"
+    "id":"largeleathershield",
+    "name":"Large Leather Shield",
+    "url":"../assets/models/largeleathershield.fbx"
   },
   {
-    "id":"misericorde",
-    "name":"Misericorde",
-    "url":"../assets/models/misericorde.fbx"
+    "id":"horsecrestwoodenshield",
+    "name":"Horse Crest Wooden Shield",
+    "url":"../assets/models/horsecrestwoodenshield.fbx"
   },
   {
-    "id":"misericorde",
-    "name":"Misericorde",
-    "url":"../assets/models/misericorde.fbx"
+    "id":"candletreewoodenshield",
+    "name":"Candletree Wooden Shield",
+    "url":"../assets/models/candletreewoodenshield.fbx"
   },
   {
-    "id":"misericorde",
-    "name":"Misericorde",
-    "url":"../assets/models/misericorde.fbx"
+    "id":"flamecrestwoodenshield",
+    "name":"Flame Crest Wooden Shield",
+    "url":"../assets/models/flamecrestwoodenshield.fbx"
   },
   {
-    "id":"misericorde",
-    "name":"Misericorde",
-    "url":"../assets/models/misericorde.fbx"
+    "id":"hawkcrestwoodenshield",
+    "name":"Hawk Crest Wooden Shield",
+    "url":"../assets/models/hawkcrestwoodenshield.fbx"
   },
   {
-    "id":"misericorde",
-    "name":"Misericorde",
-    "url":"../assets/models/misericorde.fbx"
+    "id":"beastcrestheatershield",
+    "name":"Beast Crest Heater Shield",
+    "url":"../assets/models/beastcrestheatershield.fbx"
   },
   {
-    "id":"misericorde",
-    "name":"Misericorde",
-    "url":"../assets/models/misericorde.fbx"
+    "id":"redcrestheatershield",
+    "name":"Red Crest Heater Shield",
+    "url":"../assets/models/redcrestheatershield.fbx"
   },
   {
-    "id":"misericorde",
-    "name":"Misericorde",
-    "url":"../assets/models/misericorde.fbx"
+    "id":"bluecrestheatershield",
+    "name":"Blue Crest Heater Shield",
+    "url":"../assets/models/bluecrestheatershield.fbx"
   },
   {
-    "id":"misericorde",
-    "name":"Misericorde",
-    "url":"../assets/models/misericorde.fbx"
+    "id":"eclipsecrestheatershield",
+    "name":"Eclipse Crest Heater Shield",
+    "url":"../assets/models/eclipsecrestheatershield.fbx"
   },
   {
-    "id":"misericorde",
-    "name":"Misericorde",
-    "url":"../assets/models/misericorde.fbx"
+    "id":"invertedhawkheatershield",
+    "name":"Inverted Hawk Heater Shield",
+    "url":"../assets/models/invertedhawkheatershield.fbx"
   },
   {
-    "id":"misericorde",
-    "name":"Misericorde",
-    "url":"../assets/models/misericorde.fbx"
+    "id":"heatershield",
+    "name":"Heater Shield",
+    "url":"../assets/models/heatershield.fbx"
   },
   {
-    "id":"misericorde",
-    "name":"Misericorde",
-    "url":"../assets/models/misericorde.fbx"
+    "id":"blackleathershield",
+    "name":"Black Leather Shield",
+    "url":"../assets/models/blackleathershield.fbx"
   },
   {
-    "id":"misericorde",
-    "name":"Misericorde",
-    "url":"../assets/models/misericorde.fbx"
+    "id":"dragontowershield",
+    "name":"Dragon Tower Shield",
+    "url":"../assets/models/dragontowershield.fbx"
   },
   {
-    "id":"misericorde",
-    "name":"Misericorde",
-    "url":"../assets/models/misericorde.fbx"
+    "id":"distinguishedgreatshield",
+    "name":"Distinguished Greatshield",
+    "url":"../assets/models/distinguishedgreatshield.fbx"
   },
   {
-    "id":"misericorde",
-    "name":"Misericorde",
-    "url":"../assets/models/misericorde.fbx"
+    "id":"cruciblehornshield",
+    "name":"Crucible Hornshield",
+    "url":"../assets/models/cruciblehornshield.fbx"
   },
   {
-    "id":"misericorde",
-    "name":"Misericorde",
-    "url":"../assets/models/misericorde.fbx"
+    "id":"dragonclawshield",
+    "name":"Dragonclaw Shield",
+    "url":"../assets/models/dragonclawshield.fbx"
   },
   {
-    "id":"misericorde",
-    "name":"Misericorde",
-    "url":"../assets/models/misericorde.fbx"
+    "id":"briargreatshield",
+    "name":"Briar Greatshield",
+    "url":"../assets/models/briargreatshield.fbx"
   },
   {
-    "id":"misericorde",
-    "name":"Misericorde",
-    "url":"../assets/models/misericorde.fbx"
+    "id":"erdtreegreatshield",
+    "name":"Erdtree Greatshield",
+    "url":"../assets/models/erdtreegreatshield.fbx"
   },
   {
-    "id":"misericorde",
-    "name":"Misericorde",
-    "url":"../assets/models/misericorde.fbx"
+    "id":"goldenbeastcrestshield",
+    "name":"Golden Beast Crest Shield",
+    "url":"../assets/models/goldenbeastcrestshield.fbx"
   },
   {
-    "id":"misericorde",
-    "name":"Misericorde",
-    "url":"../assets/models/misericorde.fbx"
+    "id":"jellyfishshield",
+    "name":"Jellyfish Shield",
+    "url":"../assets/models/jellyfishshield.fbx"
   },
   {
-    "id":"misericorde",
-    "name":"Misericorde",
-    "url":"../assets/models/misericorde.fbx"
+    "id":"fingerprintstoneshield",
+    "name":"Fingerprint Stone Shield",
+    "url":"../assets/models/fingerprintstoneshield.fbx"
   },
   {
-    "id":"misericorde",
-    "name":"Misericorde",
-    "url":"../assets/models/misericorde.fbx"
+    "id":"iconshield",
+    "name":"Icon Shield",
+    "url":"../assets/models/iconshield.fbx"
   },
   {
-    "id":"misericorde",
-    "name":"Misericorde",
-    "url":"../assets/models/misericorde.fbx"
+    "id":"oneeyedshield",
+    "name":"One-Eyed Shield",
+    "url":"../assets/models/oneeyedshield.fbx"
   },
   {
-    "id":"misericorde",
-    "name":"Misericorde",
-    "url":"../assets/models/misericorde.fbx"
+    "id":"visageshield",
+    "name":"Visage Shield",
+    "url":"../assets/models/visageshield.fbx"
   },
   {
-    "id":"misericorde",
-    "name":"Misericorde",
-    "url":"../assets/models/misericorde.fbx"
+    "id":"spikedpalisadeshield",
+    "name":"Spiked Palisade Shield",
+    "url":"../assets/models/spikedpalisadeshield.fbx"
   },
   {
-    "id":"misericorde",
-    "name":"Misericorde",
-    "url":"../assets/models/misericorde.fbx"
+    "id":"manortowershield",
+    "name":"Manor Towershield",
+    "url":"../assets/models/manortowershield.fbx"
   },
   {
-    "id":"misericorde",
-    "name":"Misericorde",
-    "url":"../assets/models/misericorde.fbx"
+    "id":"crossedtreetowershield",
+    "name":"Crossed-Tree Towershield",
+    "url":"../assets/models/crossedtreetowershield.fbx"
   },
   {
-    "id":"misericorde",
-    "name":"Misericorde",
-    "url":"../assets/models/misericorde.fbx"
+    "id":"invertedhawktowershield",
+    "name":"Inverted Hawk Towershield",
+    "url":"../assets/models/invertedhawktowershield.fbx"
+  },
+  {
+    "id":"antsskullplate",
+    "name":"Ant's Skull Plate",
+    "url":"../assets/models/antsskullplate.fbx"
+  },
+  {
+    "id":"redmanegreatshield",
+    "name":"Redmane Greatshield",
+    "url":"../assets/models/redmanegreatshield.fbx"
+  },
+  {
+    "id":"eclipsecrestgreatshield",
+    "name":"eclipsecrestgreatshield",
+    "url":"../assets/models/eclipsecrestgreatshield.fbx"
+  },
+  {
+    "id":"cuckoogreatshield",
+    "name":"Cuckoo Greatshield",
+    "url":"../assets/models/cuckoogreatshield.fbx"
+  },
+  {
+    "id":"goldengreatshield",
+    "name":"Golden Greatshield",
+    "url":"../assets/models/goldengreatshield.fbx"
+  },
+  {
+    "id":"gildedgreatshield",
+    "name":"Gilded Greatshield",
+    "url":"../assets/models/gildedgreatshield.fbx"
+  },
+  {
+    "id":"haligtreecrestgreatshield",
+    "name":"Haligtree Crest Greatshield",
+    "url":"../assets/models/haligtreecrestgreatshield.fbx"
+  },
+  {
+    "id":"woodengreatshield",
+    "name":"Wooden Greatshield",
+    "url":"../assets/models/woodengreatshield.fbx"
+  },
+  {
+    "id":"lordswornsshield",
+    "name":"Lordsworn's Shield",
+    "url":"../assets/models/lordswornsshield.fbx"
   }]
 }
