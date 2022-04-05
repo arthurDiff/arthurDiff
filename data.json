@@ -116,78 +116,513 @@
     "url":"../assets/models/warhawkstalon"
   },
   {
-    "id":"parryingdagger",
-    "name":"Parrying Dagger",
-    "url":"../assets/models/parryingdagger"
+    "id":"lazuliglintstonesword",
+    "name":"Lazuli Glintstone Sword",
+    "url":"../assets/models/lazuliglintstonesword"
   },
   {
-    "id":"parryingdagger",
-    "name":"Parrying Dagger",
-    "url":"../assets/models/parryingdagger"
+    "id":"carianknightssword",
+    "name":"Carian Knight's Sword",
+    "url":"../assets/models/carianknightssword"
   },
   {
-    "id":"parryingdagger",
-    "name":"Parrying Dagger",
-    "url":"../assets/models/parryingdagger"
+    "id":"crystalsword",
+    "name":"cCrystal Sword",
+    "url":"../assets/models/crystalsword"
   },
   {
-    "id":"parryingdagger",
-    "name":"Parrying Dagger",
-    "url":"../assets/models/parryingdagger"
+    "id":"rottencrystalsword",
+    "name":"Rotten Crystal Sword",
+    "url":"../assets/models/crystalsword"
   },
   {
-    "id":"parryingdagger",
-    "name":"Parrying Dagger",
-    "url":"../assets/models/parryingdagger"
+    "id":"miquellanknightssword",
+    "name":"Miquellan Knight's Sword",
+    "url":"../assets/models/miquellanknightssword"
   },
   {
-    "id":"parryingdagger",
-    "name":"Parrying Dagger",
-    "url":"../assets/models/parryingdagger"
+    "id":"goldenepitaph",
+    "name":"Golden Epitaph",
+    "url":"../assets/models/goldenepitaph"
   },
   {
-    "id":"parryingdagger",
-    "name":"Parrying Dagger",
-    "url":"../assets/models/parryingdagger"
+    "id":"swordofsttrina",
+    "name":"Sword of St Trina",
+    "url":"../assets/models/swordofsttrina"
   },
   {
-    "id":"parryingdagger",
-    "name":"Parrying Dagger",
-    "url":"../assets/models/parryingdagger"
+    "id":"regaliaofeochaid",
+    "name":"Regalia of Eochaid",
+    "url":"../assets/models/regaliaofeochaid"
   },
   {
-    "id":"parryingdagger",
-    "name":"Parrying Dagger",
-    "url":"../assets/models/parryingdagger"
+    "id":"codedsword",
+    "name":"Coded Sword",
+    "url":"../assets/models/codedsword"
   },
   {
-    "id":"parryingdagger",
-    "name":"Parrying Dagger",
-    "url":"../assets/models/parryingdagger"
+    "id":"swordofnightandflame",
+    "name":"Sword of Night and Flame",
+    "url":"../assets/models/swordofnightandflame"
   },
   {
-    "id":"parryingdagger",
-    "name":"Parrying Dagger",
-    "url":"../assets/models/parryingdagger"
+    "id":"bastardsword",
+    "name":"Bastard Sword",
+    "url":"../assets/models/bastardsword"
   },
   {
-    "id":"parryingdagger",
-    "name":"Parrying Dagger",
-    "url":"../assets/models/parryingdagger"
+    "id":"claymore",
+    "name":"Claymore",
+    "url":"../assets/models/claymore"
   },
   {
-    "id":"parryingdagger",
-    "name":"Parrying Dagger",
-    "url":"../assets/models/parryingdagger"
+    "id":"irongreatsword",
+    "name":"Iron Greatsword",
+    "url":"../assets/models/irongreatsword"
   },
   {
-    "id":"parryingdagger",
-    "name":"Parrying Dagger",
-    "url":"../assets/models/parryingdagger"
+    "id":"lordswornsgreatsword",
+    "name":"Lordsworn's Greatsword",
+    "url":"../assets/models/lordswornsgreatsword"
   },
   {
-    "id":"parryingdagger",
-    "name":"Parrying Dagger",
-    "url":"../assets/models/parryingdagger"
+    "id":"knightsgreatsword",
+    "name":"Knight's Greatsword",
+    "url":"../assets/models/knightsgreatsword"
+  },
+  {
+    "id":"banishedknightsgreatsword",
+    "name":"Banished Knight's Greatsword",
+    "url":"../assets/models/banishedknightsgreatsword"
+  },
+  {
+    "id":"forkedgreatsword",
+    "name":"Forked Greatsword",
+    "url":"../assets/models/forkedgreatsword"
+  },
+  {
+    "id":"flamberge",
+    "name":"Flamberge",
+    "url":"../assets/models/flamberge"
+  },
+  {
+    "id":"gargoylesgreatsword",
+    "name":"Gargoyle's Greatsword",
+    "url":"../assets/models/gargoylesgreatsword"
+  },
+  {
+    "id":"gargoylesblackblade",
+    "name":"Gargoyle's Blackblade",
+    "url":"../assets/models/gargoylesblackblade"
+  },
+  {
+    "id":"inseparablesword",
+    "name":"Inseparable Sword",
+    "url":"../assets/models/inseparablesword"
+  },
+  {
+    "id":"inseparableswordv2",
+    "name":"Inseparable Sword V2",
+    "url":"../assets/models/inseparableswordv2"
+  },
+  {
+    "id":"swordofmilos",
+    "name":"Sword of Milos",
+    "url":"../assets/models/swordofmilos"
+  },
+  {
+    "id":"maraisexecutionerssword",
+    "name":"Marais Executioner's Sword",
+    "url":"../assets/models/maraisexecutionerssword"
+  },
+  {
+    "id":"ordovissgreatsword",
+    "name":"Ordovis's Greatsword",
+    "url":"../assets/models/ordovissgreatsword"
+  },
+  {
+    "id":"alabasterlordssword",
+    "name":"Alabaster Lord's Sword",
+    "url":"../assets/models/alabasterlordssword"
+  },
+  {
+    "id":"deathspoker",
+    "name":"Death's Poker",
+    "url":"../assets/models/deathspoker"
+  },
+  {
+    "id":"helphenssteeple",
+    "name":"Helphen's Steeple",
+    "url":"../assets/models/helphenssteeple"
+  },
+  {
+    "id":"blasphemousblade",
+    "name":"Blasphemous Blade",
+    "url":"../assets/models/blasphemousblade"
+  },
+  {
+    "id":"goldenordergreatsword",
+    "name":"Golden Order Greatsword",
+    "url":"../assets/models/goldenordergreatsword"
+  },
+  {
+    "id":"darkmoongreatsword",
+    "name":"Dark Moon Greatsword",
+    "url":"../assets/models/darkmoongreatsword"
+  },
+  {
+    "id":"sacredrelicsword",
+    "name":"Sacred Relic Sword",
+    "url":"../assets/models/sacredrelicsword"
+  },
+  {
+    "id":"zweihander",
+    "name":"Zweihander",
+    "url":"../assets/models/zweihander"
+  },
+  {
+    "id":"greatsword",
+    "name":"Greatsword",
+    "url":"../assets/models/greatsword"
+  },
+  {
+    "id":"watchdogsgreatsword",
+    "name":"Watchdog's Greatsword",
+    "url":"../assets/models/watchdogsgreatsword"
+  },
+  {
+    "id":"trollsgoldensword",
+    "name":"troll's Golden Sword",
+    "url":"../assets/models/trollsgoldensword"
+  },
+  {
+    "id":"trollknightssword",
+    "name":"Troll Knight's Sword",
+    "url":"../assets/models/trollknightssword"
+  },
+  {
+    "id":"greatsword",
+    "name":"Greatsword",
+    "url":"../assets/models/greatsword"
+  },
+  {
+    "id":"greatsword",
+    "name":"Greatsword",
+    "url":"../assets/models/greatsword"
+  },
+  {
+    "id":"greatsword",
+    "name":"Greatsword",
+    "url":"../assets/models/greatsword"
+  },
+  {
+    "id":"greatsword",
+    "name":"Greatsword",
+    "url":"../assets/models/greatsword"
+  },
+  {
+    "id":"greatsword",
+    "name":"Greatsword",
+    "url":"../assets/models/greatsword"
+  },
+  {
+    "id":"greatsword",
+    "name":"Greatsword",
+    "url":"../assets/models/greatsword"
+  },
+  {
+    "id":"greatsword",
+    "name":"Greatsword",
+    "url":"../assets/models/greatsword"
+  },
+  {
+    "id":"greatsword",
+    "name":"Greatsword",
+    "url":"../assets/models/greatsword"
+  },
+  {
+    "id":"greatsword",
+    "name":"Greatsword",
+    "url":"../assets/models/greatsword"
+  },
+  {
+    "id":"greatsword",
+    "name":"Greatsword",
+    "url":"../assets/models/greatsword"
+  },
+  {
+    "id":"greatsword",
+    "name":"Greatsword",
+    "url":"../assets/models/greatsword"
+  },
+  {
+    "id":"greatsword",
+    "name":"Greatsword",
+    "url":"../assets/models/greatsword"
+  },
+  {
+    "id":"greatsword",
+    "name":"Greatsword",
+    "url":"../assets/models/greatsword"
+  },
+  {
+    "id":"greatsword",
+    "name":"Greatsword",
+    "url":"../assets/models/greatsword"
+  },
+  {
+    "id":"greatsword",
+    "name":"Greatsword",
+    "url":"../assets/models/greatsword"
+  },
+  {
+    "id":"greatsword",
+    "name":"Greatsword",
+    "url":"../assets/models/greatsword"
+  },
+  {
+    "id":"greatsword",
+    "name":"Greatsword",
+    "url":"../assets/models/greatsword"
+  },
+  {
+    "id":"greatsword",
+    "name":"Greatsword",
+    "url":"../assets/models/greatsword"
+  },
+  {
+    "id":"greatsword",
+    "name":"Greatsword",
+    "url":"../assets/models/greatsword"
+  },
+  {
+    "id":"greatsword",
+    "name":"Greatsword",
+    "url":"../assets/models/greatsword"
+  },
+  {
+    "id":"greatsword",
+    "name":"Greatsword",
+    "url":"../assets/models/greatsword"
+  },
+  {
+    "id":"greatsword",
+    "name":"Greatsword",
+    "url":"../assets/models/greatsword"
+  },
+  {
+    "id":"greatsword",
+    "name":"Greatsword",
+    "url":"../assets/models/greatsword"
+  },
+  {
+    "id":"greatsword",
+    "name":"Greatsword",
+    "url":"../assets/models/greatsword"
+  },
+  {
+    "id":"greatsword",
+    "name":"Greatsword",
+    "url":"../assets/models/greatsword"
+  },
+  {
+    "id":"greatsword",
+    "name":"Greatsword",
+    "url":"../assets/models/greatsword"
+  },
+  {
+    "id":"greatsword",
+    "name":"Greatsword",
+    "url":"../assets/models/greatsword"
+  },
+  {
+    "id":"greatsword",
+    "name":"Greatsword",
+    "url":"../assets/models/greatsword"
+  },
+  {
+    "id":"greatsword",
+    "name":"Greatsword",
+    "url":"../assets/models/greatsword"
+  },
+  {
+    "id":"greatsword",
+    "name":"Greatsword",
+    "url":"../assets/models/greatsword"
+  },
+  {
+    "id":"greatsword",
+    "name":"Greatsword",
+    "url":"../assets/models/greatsword"
+  },
+  {
+    "id":"greatsword",
+    "name":"Greatsword",
+    "url":"../assets/models/greatsword"
+  },
+  {
+    "id":"greatsword",
+    "name":"Greatsword",
+    "url":"../assets/models/greatsword"
+  },
+  {
+    "id":"greatsword",
+    "name":"Greatsword",
+    "url":"../assets/models/greatsword"
+  },
+  {
+    "id":"greatsword",
+    "name":"Greatsword",
+    "url":"../assets/models/greatsword"
+  },
+  {
+    "id":"greatsword",
+    "name":"Greatsword",
+    "url":"../assets/models/greatsword"
+  },
+  {
+    "id":"greatsword",
+    "name":"Greatsword",
+    "url":"../assets/models/greatsword"
+  },
+  {
+    "id":"greatsword",
+    "name":"Greatsword",
+    "url":"../assets/models/greatsword"
+  },
+  {
+    "id":"greatsword",
+    "name":"Greatsword",
+    "url":"../assets/models/greatsword"
+  },
+  {
+    "id":"greatsword",
+    "name":"Greatsword",
+    "url":"../assets/models/greatsword"
+  },
+  {
+    "id":"greatsword",
+    "name":"Greatsword",
+    "url":"../assets/models/greatsword"
+  },
+  {
+    "id":"greatsword",
+    "name":"Greatsword",
+    "url":"../assets/models/greatsword"
+  },
+  {
+    "id":"greatsword",
+    "name":"Greatsword",
+    "url":"../assets/models/greatsword"
+  },
+  {
+    "id":"greatsword",
+    "name":"Greatsword",
+    "url":"../assets/models/greatsword"
+  },
+  {
+    "id":"greatsword",
+    "name":"Greatsword",
+    "url":"../assets/models/greatsword"
+  },
+  {
+    "id":"greatsword",
+    "name":"Greatsword",
+    "url":"../assets/models/greatsword"
+  },
+  {
+    "id":"greatsword",
+    "name":"Greatsword",
+    "url":"../assets/models/greatsword"
+  },
+  {
+    "id":"greatsword",
+    "name":"Greatsword",
+    "url":"../assets/models/greatsword"
+  },
+  {
+    "id":"greatsword",
+    "name":"Greatsword",
+    "url":"../assets/models/greatsword"
+  },
+  {
+    "id":"greatsword",
+    "name":"Greatsword",
+    "url":"../assets/models/greatsword"
+  },
+  {
+    "id":"greatsword",
+    "name":"Greatsword",
+    "url":"../assets/models/greatsword"
+  },
+  {
+    "id":"greatsword",
+    "name":"Greatsword",
+    "url":"../assets/models/greatsword"
+  },
+  {
+    "id":"greatsword",
+    "name":"Greatsword",
+    "url":"../assets/models/greatsword"
+  },
+  {
+    "id":"greatsword",
+    "name":"Greatsword",
+    "url":"../assets/models/greatsword"
+  },
+  {
+    "id":"greatsword",
+    "name":"Greatsword",
+    "url":"../assets/models/greatsword"
+  },
+  {
+    "id":"greatsword",
+    "name":"Greatsword",
+    "url":"../assets/models/greatsword"
+  },
+  {
+    "id":"greatsword",
+    "name":"Greatsword",
+    "url":"../assets/models/greatsword"
+  },
+  {
+    "id":"greatsword",
+    "name":"Greatsword",
+    "url":"../assets/models/greatsword"
+  },
+  {
+    "id":"greatsword",
+    "name":"Greatsword",
+    "url":"../assets/models/greatsword"
+  },
+  {
+    "id":"greatsword",
+    "name":"Greatsword",
+    "url":"../assets/models/greatsword"
+  },
+  {
+    "id":"greatsword",
+    "name":"Greatsword",
+    "url":"../assets/models/greatsword"
+  },
+  {
+    "id":"greatsword",
+    "name":"Greatsword",
+    "url":"../assets/models/greatsword"
+  },
+  {
+    "id":"greatsword",
+    "name":"Greatsword",
+    "url":"../assets/models/greatsword"
+  },
+  {
+    "id":"greatsword",
+    "name":"Greatsword",
+    "url":"../assets/models/greatsword"
+  },
+  {
+    "id":"greatsword",
+    "name":"Greatsword",
+    "url":"../assets/models/greatsword"
   }]
 }
