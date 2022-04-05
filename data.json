@@ -1311,6 +1311,516 @@
     "url":"../assets/models/erdtreebow.fbx"
   },
   {
+    "id":"greatbow",
+    "name":"Greatbow",
+    "url":"../assets/models/greatbow.fbx"
+  },
+  {
+    "id":"golemgreatbow",
+    "name":"Golem Greatbow",
+    "url":"../assets/models/golemgreatbow.fbx"
+  },
+  {
+    "id":"liongreatbow",
+    "name":"Lion Greatbow",
+    "url":"../assets/models/liongreatbow.fbx"
+  },
+  {
+    "id":"soldierscrossbow",
+    "name":"Soldier's Crossbow",
+    "url":"../assets/models/soldierscrossbow.fbx"
+  },
+  {
+    "id":"lightcrossbow",
+    "name":"Light Crossbow",
+    "url":"../assets/models/lightcrossbow.fbx"
+  },
+  {
+    "id":"heavycrossbow",
+    "name":"Heavy Crossbow",
+    "url":"../assets/models/heavycrossbow.fbx"
+  },
+  {
+    "id":"arbalest",
+    "name":"Arbalest",
+    "url":"../assets/models/arbalest.fbx"
+  },
+  {
+    "id":"crepussblackkeycrossbow",
+    "name":"Crepus's Black-key Crossbow",
+    "url":"../assets/models/crepussblackkeycrossbow.fbx"
+  },
+  {
+    "id":"pulleycrossbow",
+    "name":"Pulley Crossbow",
+    "url":"../assets/models/pulleycrossbow.fbx"
+  },
+  {
+    "id":"fullmooncrossbow",
+    "name":"Full Moon Crossbow",
+    "url":"../assets/models/fullmooncrossbow.fbx"
+  },
+  {
+    "id":"handballista",
+    "name":"Hand Ballista",
+    "url":"../assets/models/handballista.fbx"
+  },
+  {
+    "id":"jarcannon",
+    "name":"Jar Cannon",
+    "url":"../assets/models/jarcannon.fbx"
+  },
+  {
+    "id":"astrologersstaff",
+    "name":"Astrologer's Staff",
+    "url":"../assets/models/astrologersstaff.fbx"
+  },
+  {
+    "id":"glintstonestaff",
+    "name":"Glintstone Staff",
+    "url":"../assets/models/glintstonestaff.fbx"
+  },
+  {
+    "id":"academyglintstonestaff",
+    "name":"Academy Glintstone Staff",
+    "url":"../assets/models/academyglintstonestaff.fbx"
+  },
+  {
+    "id":"carianregalscepter",
+    "name":"Carian Regal Scepter",
+    "url":"../assets/models/carianregalscepter.fbx"
+  },
+  {
+    "id":"demihumanqueensstaff",
+    "name":"Demi-Human Queen's Staff",
+    "url":"../assets/models/demihumanqueensstaff.fbx"
+  },
+  {
+    "id":"diggersstaff",
+    "name":"Digger's Staff",
+    "url":"../assets/models/diggersstaff.fbx"
+  },
+  {
+    "id":"azursglintstonestaff",
+    "name":"Azur's Glintstone Staff",
+    "url":"../assets/models/azursglintstonestaff.fbx"
+  },
+  {
+    "id":"carianglintstonestaff",
+    "name":"Carian Glintstone Staff",
+    "url":"../assets/models/carianglintstonestaff.fbx"
+  },
+  {
+    "id":"staffofloss",
+    "name":"Staff of Loss",
+    "url":"../assets/models/staffofloss.fbx"
+  },
+  {
+    "id":"meteoritestaff",
+    "name":"Meteorite Staff",
+    "url":"../assets/models/meteoritestaff.fbx"
+  },
+  {
+    "id":"lusatsglintstonestaff",
+    "name":"Lusat's Glintstone Staff",
+    "url":"../assets/models/lusatsglintstonestaff.fbx"
+  },
+  {
+    "id":"crystalstaff",
+    "name":"Crystal Staff",
+    "url":"../assets/models/crystalstaff.fbx"
+  },
+  {
+    "id":"staffoftheguilty",
+    "name":"Staff of The Guilty",
+    "url":"../assets/models/staffoftheguilty.fbx"
+  },
+  {
+    "id":"princeofdeathsstaff",
+    "name":"Prince of Death's Staff",
+    "url":"../assets/models/princeofdeathsstaff.fbx"
+  },
+  {
+    "id":"carianglintbladestaff",
+    "name":"Carian Glintblade Staff",
+    "url":"../assets/models/carianglintbladestaff.fbx"
+  },
+  {
+    "id":"rottencrystalstaff",
+    "name":"Rotten Crystal Staff",
+    "url":"../assets/models/crystalstaff.fbx"
+  },
+  {
+    "id":"gelmirglintstonestaff",
+    "name":"Gelmir Glintstone Staff",
+    "url":"../assets/models/gelmirglintstonestaff.fbx"
+  },
+  {
+    "id":"albinauricstaff",
+    "name":"Albinauric Staff",
+    "url":"../assets/models/albinauricstaff.fbx"
+  },
+  {
+    "id":"fingerseal",
+    "name":"Finger Seal",
+    "url":"../assets/models/fingerseal.fbx"
+  },
+  {
+    "id":"erdtreeseal",
+    "name":"Erdtree Seal",
+    "url":"../assets/models/erdtreeseal.fbx"
+  },
+  {
+    "id":"goldenorderseal",
+    "name":"goldenorderseal",
+    "url":"../assets/models/goldenorderseal.fbx"
+  },
+  {
+    "id":"gravelstoneseal",
+    "name":"Gravel Stone Seal",
+    "url":"../assets/models/gravelstoneseal.fbx"
+  },
+  {
+    "id":"giantsseal",
+    "name":"Giant's Seal",
+    "url":"../assets/models/giantsseal.fbx"
+  },
+  {
+    "id":"godslayersseal",
+    "name":"Godslayer's Seal",
+    "url":"../assets/models/godslayersseal.fbx"
+  },
+  {
+    "id":"clawmarkseal",
+    "name":"Clawmark Seal",
+    "url":"../assets/models/clawmarkseal.fbx"
+  },
+  {
+    "id":"frenziedflameseal",
+    "name":"Frenzied Flame Seal",
+    "url":"../assets/models/frenziedflameseal.fbx"
+  },
+  {
+    "id":"dragoncommunionseal",
+    "name":"Dragon Communion Seal",
+    "url":"../assets/models/dragoncommunionseal.fbx"
+  },
+  {
+    "id":"torch",
+    "name":"Torch",
+    "url":"../assets/models/torch.fbx"
+  },
+  {
+    "id":"beastrepellenttorch",
+    "name":"Beast-Repellent Torch",
+    "url":"../assets/models/torch.fbx"
+  },
+  {
+    "id":"steelwiretorch",
+    "name":"Steel-Wire Torch",
+    "url":"../assets/models/steelwiretorch.fbx"
+  },
+  {
+    "id":"sentrystorch",
+    "name":"Sentry's Torch",
+    "url":"../assets/models/sentrystorch.fbx"
+  },
+  {
+    "id":"ghostflametorch",
+    "name":"Ghostflame Torch",
+    "url":"../assets/models/ghostflametorch.fbx"
+  },
+  {
+    "id":"sttrinastorch",
+    "name":"St Trina's Torch",
+    "url":"../assets/models/sttrinastorch.fbx"
+  },
+  {
+    "id":"buckler",
+    "name":"Buckler",
+    "url":"../assets/models/buckler.fbx"
+  },
+  {
+    "id":"perfumersshield",
+    "name":"Perfumer's Shield",
+    "url":"../assets/models/perfumersshield.fbx"
+  },
+  {
+    "id":"manserpentsshield",
+    "name":"Man-Serpent's Shield",
+    "url":"../assets/models/manserpentsshield.fbx"
+  },
+  {
+    "id":"ricketyshield",
+    "name":"Rickety Shield",
+    "url":"../assets/models/ricketyshield.fbx"
+  },
+  {
+    "id":"pilloryshield",
+    "name":"Pillory Shield",
+    "url":"../assets/models/pilloryshield.fbx"
+  },
+  {
+    "id":"shieldoftheguilty",
+    "name":"Shield of The Guilty",
+    "url":"../assets/models/shieldoftheguilty.fbx"
+  },
+  {
+    "id":"redthornroundshield",
+    "name":"Red Thorn Roundshield",
+    "url":"../assets/models/redthornroundshield.fbx"
+  },
+  {
+    "id":"scripturewoodenshield",
+    "name":"Scripture Wooden Shield",
+    "url":"../assets/models/scripturewoodenshield.fbx"
+  },
+  {
+    "id":"rivetedwoodenshield",
+    "name":"Riveted Wooden Shield",
+    "url":"../assets/models/rivetedwoodenshield.fbx"
+  },
+  {
+    "id":"bluewhitewoodenshield",
+    "name":"Blue-White Wooden Shield",
+    "url":"../assets/models/bluewhitewoodenshield.fbx"
+  },
+  {
+    "id":"riftshield",
+    "name":"Rift Shield",
+    "url":"../assets/models/riftshield.fbx"
+  },
+  {
+    "id":"ironroundshield",
+    "name":"Iron Roundshield",
+    "url":"../assets/models/ironroundshield.fbx"
+  },
+  {
+    "id":"gildedironshield",
+    "name":"Gilded Iron Shield",
+    "url":"../assets/models/gildedironshield.fbx"
+  },
+  {
+    "id":"icecrestshield",
+    "name":"Ice Crest Shield",
+    "url":"../assets/models/icecrestshield.fbx"
+  },
+  {
+    "id":"smolderingshield",
+    "name":"Smoldering Shield",
+    "url":"../assets/models/smolderingshield.fbx"
+  },
+  {
+    "id":"spiralhornshield",
+    "name":"Spiralhorn Shield",
+    "url":"../assets/models/spiralhornshield.fbx"
+  },
+  {
+    "id":"coilshield",
+    "name":"Coil Shield",
+    "url":"../assets/models/coilshield.fbx"
+  },
+  {
+    "id":"kiteshield",
+    "name":"Kite Shield",
+    "url":"../assets/models/kiteshield.fbx"
+  },
+  {
+    "id":"marredleathershield",
+    "name":"Marred Leather Shield",
+    "url":"../assets/models/marredleathershield.fbx"
+  },
+  {
+    "id":"marredwoodenshield",
+    "name":"Marred Wooden Shield",
+    "url":"../assets/models/marredwoodenshield.fbx"
+  },
+  {
+    "id":"banishedknightsshield",
+    "name":"Banished Knight's Shield",
+    "url":"../assets/models/banishedknightsshield.fbx"
+  },
+  {
+    "id":"albinauricshield",
+    "name":"Albinauric Shield",
+    "url":"../assets/models/albinauricshield.fbx"
+  },
+  {
+    "id":"sunrealmshield",
+    "name":"Sun Realm Shield",
+    "url":"../assets/models/sunrealmshield.fbx"
+  },
+  {
+    "id":"silvermirrorshield",
+    "name":"Silver Mirrorshield",
+    "url":"../assets/models/silvermirrorshield.fbx"
+  },
+  {
+    "id":"roundshield",
+    "name":"Round Shield",
+    "url":"../assets/models/roundshield.fbx"
+  },
+  {
+    "id":"scorpionkiteshield",
+    "name":"Scorpion Kite Shield",
+    "url":"../assets/models/scorpionkiteshield.fbx"
+  },
+  {
+    "id":"twinbirdkiteshield",
+    "name":"Twinbird Kite Shield",
+    "url":"../assets/models/twinbirdkiteshield.fbx"
+  },
+  {
+    "id":"bluegoldkiteshield",
+    "name":"Blue-Gold Kite Shield",
+    "url":"../assets/models/bluegoldkiteshield.fbx"
+  },
+  {
+    "id":"brassshield",
+    "name":"Brass Shield",
+    "url":"../assets/models/brassshield.fbx"
+  },
+  {
+    "id":"Great Turtle Shell",
+    "name":"greatturtleshell",
+    "url":"../assets/models/greatturtleshell.fbx"
+  },
+  {
+    "id":"misericorde",
+    "name":"Misericorde",
+    "url":"../assets/models/misericorde.fbx"
+  },
+  {
+    "id":"misericorde",
+    "name":"Misericorde",
+    "url":"../assets/models/misericorde.fbx"
+  },
+  {
+    "id":"misericorde",
+    "name":"Misericorde",
+    "url":"../assets/models/misericorde.fbx"
+  },
+  {
+    "id":"misericorde",
+    "name":"Misericorde",
+    "url":"../assets/models/misericorde.fbx"
+  },
+  {
+    "id":"misericorde",
+    "name":"Misericorde",
+    "url":"../assets/models/misericorde.fbx"
+  },
+  {
+    "id":"misericorde",
+    "name":"Misericorde",
+    "url":"../assets/models/misericorde.fbx"
+  },
+  {
+    "id":"misericorde",
+    "name":"Misericorde",
+    "url":"../assets/models/misericorde.fbx"
+  },
+  {
+    "id":"misericorde",
+    "name":"Misericorde",
+    "url":"../assets/models/misericorde.fbx"
+  },
+  {
+    "id":"misericorde",
+    "name":"Misericorde",
+    "url":"../assets/models/misericorde.fbx"
+  },
+  {
+    "id":"misericorde",
+    "name":"Misericorde",
+    "url":"../assets/models/misericorde.fbx"
+  },
+  {
+    "id":"misericorde",
+    "name":"Misericorde",
+    "url":"../assets/models/misericorde.fbx"
+  },
+  {
+    "id":"misericorde",
+    "name":"Misericorde",
+    "url":"../assets/models/misericorde.fbx"
+  },
+  {
+    "id":"misericorde",
+    "name":"Misericorde",
+    "url":"../assets/models/misericorde.fbx"
+  },
+  {
+    "id":"misericorde",
+    "name":"Misericorde",
+    "url":"../assets/models/misericorde.fbx"
+  },
+  {
+    "id":"misericorde",
+    "name":"Misericorde",
+    "url":"../assets/models/misericorde.fbx"
+  },
+  {
+    "id":"misericorde",
+    "name":"Misericorde",
+    "url":"../assets/models/misericorde.fbx"
+  },
+  {
+    "id":"misericorde",
+    "name":"Misericorde",
+    "url":"../assets/models/misericorde.fbx"
+  },
+  {
+    "id":"misericorde",
+    "name":"Misericorde",
+    "url":"../assets/models/misericorde.fbx"
+  },
+  {
+    "id":"misericorde",
+    "name":"Misericorde",
+    "url":"../assets/models/misericorde.fbx"
+  },
+  {
+    "id":"misericorde",
+    "name":"Misericorde",
+    "url":"../assets/models/misericorde.fbx"
+  },
+  {
+    "id":"misericorde",
+    "name":"Misericorde",
+    "url":"../assets/models/misericorde.fbx"
+  },
+  {
+    "id":"misericorde",
+    "name":"Misericorde",
+    "url":"../assets/models/misericorde.fbx"
+  },
+  {
+    "id":"misericorde",
+    "name":"Misericorde",
+    "url":"../assets/models/misericorde.fbx"
+  },
+  {
+    "id":"misericorde",
+    "name":"Misericorde",
+    "url":"../assets/models/misericorde.fbx"
+  },
+  {
+    "id":"misericorde",
+    "name":"Misericorde",
+    "url":"../assets/models/misericorde.fbx"
+  },
+  {
+    "id":"misericorde",
+    "name":"Misericorde",
+    "url":"../assets/models/misericorde.fbx"
+  },
+  {
+    "id":"misericorde",
+    "name":"Misericorde",
+    "url":"../assets/models/misericorde.fbx"
+  },
+  {
     "id":"misericorde",
     "name":"Misericorde",
     "url":"../assets/models/misericorde.fbx"
