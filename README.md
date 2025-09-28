@@ -8,5 +8,4 @@ ___
 
 ### You are still reading? That must mean you want to know more about me!
 
-I'm an engineer who loves trying new technology or languages. 
-Currently on ![Rust](https://img.shields.io/badge/-rust-%23000000?logo=rust&logoColor=white) and ![Go](https://img.shields.io/badge/go-%2300ADD8?logo=go&logoColor=white) train 🚂.
+I'm a dev who's devving.
